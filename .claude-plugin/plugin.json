@@ -1,7 +1,11 @@
 {
   "name": "capability-topology-architecture",
+  "displayName": "Capability Topology Architecture",
   "version": "1.0.0",
   "description": "Design, build, review and migrate backend systems with Capability Topology Architecture: capabilities built once as data-owning modules, composed into hosts at deployment time, so one codebase runs monolithic, distributed or mixed.",
   "author": { "name": "Howfar" },
-  "keywords": ["architecture", "backend", "modular-monolith", "microservices", "ddd", "outbox"]
+  "homepage": "https://github.com/oyedee/capability-topology-architecture",
+  "repository": "https://github.com/oyedee/capability-topology-architecture",
+  "license": "MIT",
+  "keywords": ["architecture", "backend", "modular-monolith", "microservices", "outbox", "ddd"]
 }

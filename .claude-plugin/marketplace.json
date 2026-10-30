@@ -1,0 +1,12 @@
+{
+  "name": "howfar-plugins",
+  "description": "Backend architecture plugins by Howfar",
+  "owner": { "name": "Howfar" },
+  "plugins": [
+    {
+      "name": "capability-topology-architecture",
+      "source": "./",
+      "description": "Design, build, review and migrate backends where capability boundaries and deployment boundaries are separate decisions."
+    }
+  ]
+}
